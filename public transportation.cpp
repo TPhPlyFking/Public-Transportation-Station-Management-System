@@ -1,4 +1,8 @@
-﻿#include <iostream>
+//Author: Trần Phát
+//ID Student: 24110119
+//Last update: september 14th 2025
+
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -166,3 +170,4 @@ int main() {
 
     return 0;
 }
+
